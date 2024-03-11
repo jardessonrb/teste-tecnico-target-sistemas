@@ -1,0 +1,23 @@
+int INDICE = 13, SOMA = 0, K = 0;
+
+enquanto k < INDICE:
+    k = k + 1;
+    soma = soma + k;
+
+Vamos ter 13 voltas
+
+1° volta: k = 0(valor de k) + 1 e soma = 0(valor de soma) + k, k = 1 e soma = 1;
+2° volta: k = 1(valor de k) + 1 e soma = 1(valor de soma) + k, k = 2 e soma = 3;
+3° volta: k = 2(valor de k) + 1 e soma = 3(valor de soma) + k, k = 3 e soma = 6;
+continua...
+
+Observe que valor de soma sempre é dado por soma_atual = soma_anterior + valor_k_atual e o valor de valor_k_atual sempre sobe 1 em cada volta.
+logo temos:
+1° 0 + volta1 = 1
+2° 1 + volta2 = 3
+3° 3 + volta3 = 6
+4° 6 + volta4 = 10
+.
+.
+.
+13° 78 + volta13 = 91 que é o valor final da soma = 91.

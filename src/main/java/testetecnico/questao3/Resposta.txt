@@ -1,0 +1,28 @@
+3) Descubra a lógica e complete o próximo elemento:
+a) 1, 3, 5, 7, ___
+resposta: 9
+lógica: Sequência dos números ímpares.
+
+b) 2, 4, 8, 16, 32, 64, ____
+resposta: 128
+lógica: O número atual é o dobro do anterior, começando por 2.
+
+c) 0, 1, 4, 9, 16, 25, 36, ____
+resposta: 49
+lógica: O número atual é a soma do número anterior com o número ímpar da sequência dos ímpares.
+Exemplo: 0, 0 + 1 = 1, 1 + 3 = 4, 4 + 5 = 9, 9 + 7 = 16, 16 + 9 = 25, 25 + 11 = 36, 36 + 13 = 49.
+
+d) 4, 16, 36, 64, ____
+resposta: 100
+lógica: A diferença entre os números vai somando a diferença anterior mais 8 começando entre 4 e 16
+Exemplo: 4 -> 16 dif = 12, 16 -> 36 dif = 20(12 + 8), 36 -> 64 dif = 28(20 + 8), 64 -> 100 dif = 36(28 + 8)
+
+e) 1, 1, 2, 3, 5, 8, ____
+resposta: 13
+lógica: Sequência de Finonacci.
+
+f) 2,10, 12, 16, 17, 18, 19, ____
+resposta: 200
+lógica: Sequência dos números que na forma escrita começa com a letra D.
+exemplo: 2(dois), 10(dez), 12(doze), 16(dezesseis), 17(dezessete), 18(dezoito), 19(dezenove) e 200(duzento). Entre 19 e 200,
+existem os númerais que não começam com a letra D.
