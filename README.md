@@ -57,7 +57,7 @@ Fibonacci e retorne uma mensagem avisando se o número informado pertence ou nã
 IMPORTANTE:  
     Esse número pode ser informado através de qualquer entrada de sua preferência ou pode ser previamente definido no código; 
 ```
-##### Resposta da questão 2:
+##### Resposta da questão 2: [Código](https://github.com/jardessonrb/teste-tecnico-target-sistemas/blob/main/src/main/java/testetecnico/questao2/Questao2.java)
 
 ```Java
 public static String fibonacci(int numeroBuscado){
@@ -192,7 +192,7 @@ IMPORTANTE:
 	b) Evite usar funções prontas, como, por exemplo, reverse; 
 ```
 
-##### Resposta da questão 5:
+##### Resposta da questão 5:[Código](https://github.com/jardessonrb/teste-tecnico-target-sistemas/blob/main/src/main/java/testetecnico/questao5/Questao5.java)
 ```Java
 public static String reverterString(String texto){
         StringBuilder textoInvertido = new StringBuilder();
